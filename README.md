@@ -9,7 +9,7 @@
     + `SENDER_EMAIL_PASSWD` 发送方邮箱密码
     + `RECEIVER_EMAIL` 接受方邮箱账号
 
-![eg](imgs/eg.png)
+![eg](imgs/eg.png) 
 
 测试方法：
 + 修改这个README.md,随便加一个空格
